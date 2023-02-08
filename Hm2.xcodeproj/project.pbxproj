@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		FC971D092993D07100BDF29D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D082993D07100BDF29D /* main.swift */; };
+		FC971D102993D08100BDF29D /* Animals.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D0F2993D08100BDF29D /* Animals.swift */; };
+		FC971D122993D0B500BDF29D /* Pet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D112993D0B500BDF29D /* Pet.swift */; };
+		FC971D142993D0C500BDF29D /* Humster.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D132993D0C500BDF29D /* Humster.swift */; };
+		FC971D162993D0D600BDF29D /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D152993D0D600BDF29D /* Dog.swift */; };
+		FC971D182993D0EE00BDF29D /* Lion.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D172993D0EE00BDF29D /* Lion.swift */; };
+		FC971D1A2993D10600BDF29D /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D192993D10600BDF29D /* User.swift */; };
+		FC971D1C2993D11400BDF29D /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC971D1B2993D11400BDF29D /* Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +32,13 @@
 /* Begin PBXFileReference section */
 		FC971D052993D07100BDF29D /* Hm2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hm2; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC971D082993D07100BDF29D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FC971D0F2993D08100BDF29D /* Animals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animals.swift; sourceTree = "<group>"; };
+		FC971D112993D0B500BDF29D /* Pet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet.swift; sourceTree = "<group>"; };
+		FC971D132993D0C500BDF29D /* Humster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Humster.swift; sourceTree = "<group>"; };
+		FC971D152993D0D600BDF29D /* Dog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
+		FC971D172993D0EE00BDF29D /* Lion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lion.swift; sourceTree = "<group>"; };
+		FC971D192993D10600BDF29D /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		FC971D1B2993D11400BDF29D /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,13 @@
 			isa = PBXGroup;
 			children = (
 				FC971D082993D07100BDF29D /* main.swift */,
+				FC971D192993D10600BDF29D /* User.swift */,
+				FC971D172993D0EE00BDF29D /* Lion.swift */,
+				FC971D0F2993D08100BDF29D /* Animals.swift */,
+				FC971D112993D0B500BDF29D /* Pet.swift */,
+				FC971D132993D0C500BDF29D /* Humster.swift */,
+				FC971D152993D0D600BDF29D /* Dog.swift */,
+				FC971D1B2993D11400BDF29D /* Student.swift */,
 			);
 			path = Hm2;
 			sourceTree = "<group>";
@@ -120,7 +141,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC971D142993D0C500BDF29D /* Humster.swift in Sources */,
+				FC971D122993D0B500BDF29D /* Pet.swift in Sources */,
 				FC971D092993D07100BDF29D /* main.swift in Sources */,
+				FC971D182993D0EE00BDF29D /* Lion.swift in Sources */,
+				FC971D162993D0D600BDF29D /* Dog.swift in Sources */,
+				FC971D102993D08100BDF29D /* Animals.swift in Sources */,
+				FC971D1A2993D10600BDF29D /* User.swift in Sources */,
+				FC971D1C2993D11400BDF29D /* Student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

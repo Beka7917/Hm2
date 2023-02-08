@@ -7,5 +7,19 @@
 
 import Foundation
 
-print("Hello, World!")
+var dog = Pet(name: "Тузик", age: 3, eat: "Все подряд ")
+dog.showInfo()
+
+
+var lion = Humster(name: "Лев", age: 2, hunting_method: "гнаться за жертвой ")
+
+lion.showInfo()
+
+
+var student = Student(name: "Bektur", last_name: "Kadurkulov", year: 2020)
+
+student.getFullName()
+student.getCourse()
+
+
 
